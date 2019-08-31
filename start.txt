@@ -1,0 +1,1 @@
+Test GIT , creating a first file with name start.txt
